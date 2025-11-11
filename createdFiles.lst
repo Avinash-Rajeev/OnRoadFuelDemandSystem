@@ -1,0 +1,5 @@
+com\example\fueldemand\controller\FuelController.class
+com\example\fueldemand\model\User.class
+com\example\fueldemand\service\FuelService.class
+com\example\fueldemand\model\Booking.class
+com\example\fueldemand\OnRoadFuelDemandApplication.class
